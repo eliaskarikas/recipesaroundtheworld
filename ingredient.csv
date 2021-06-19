@@ -1,0 +1,1034 @@
+Ingredient_id,Ingredient_name,Category
+1,Egg,Meat
+2,Bread,Bakery
+3,Rye Bread,Bakery
+4,Wheaten Bread,Bakery
+5,White Bread,Bakery
+6,Wholewheat Bread,Bakery
+7,Wort,Beverage
+8,Arrack,Beverage Alcoholic
+9,Beer,Beverage Alcoholic
+10,Bantu Beer,Beverage Alcoholic
+11,Brandy,Beverage Alcoholic
+12,Anise Brandy,Beverage Alcoholic
+13,Apple Brandy,Beverage Alcoholic
+14,Armagnac Brandy,Beverage Alcoholic
+15,Blackberry Brandy,Beverage Alcoholic
+16,Cherry Brandy,Beverage Alcoholic
+17,Cognac Brandy,Beverage Alcoholic
+18,Papaya Brandy,Beverage Alcoholic
+19,Pear Brandy,Beverage Alcoholic
+20,Plum Brandy,Beverage Alcoholic
+21,Raspberry Brandy,Beverage Alcoholic
+22,Weinbrand Brandy,Beverage Alcoholic
+23,Gin,Beverage Alcoholic
+24,Rum,Beverage Alcoholic
+25,Whisky,Beverage Alcoholic
+26,Bourbon Whisky,Beverage Alcoholic
+27,Canadian Whisky,Beverage Alcoholic
+28,Finnish Whisky,Beverage Alcoholic
+29,Japanese Whisky,Beverage Alcoholic
+30,Malt Whisky,Beverage Alcoholic
+31,Scotch,Beverage Alcoholic
+32,Wine,Beverage Alcoholic
+33,Bilberry Wine,Beverage Alcoholic
+34,Botrytized Wine,Beverage Alcoholic
+35,Champagne,Beverage Alcoholic
+36,Cider,Beverage Alcoholic
+37,Plum Wine,Beverage Alcoholic
+38,Port Wine,Beverage Alcoholic
+39,Red Wine,Beverage Alcoholic
+40,Rose Wine,Beverage Alcoholic
+41,Sake,Beverage Alcoholic
+42,Sherry,Beverage Alcoholic
+43,Sparkling Wine,Beverage Alcoholic
+44,Strawberry Wine,Beverage Alcoholic
+45,White Wine,Beverage Alcoholic
+46,Coffee,Beverage
+47,Mate,Beverage
+48,Black Tea,Beverage
+49,Green Tea,Beverage
+50,Roibos Tea,Beverage
+51,Barley,Cereal
+52,Crispbread,Cereal
+53,Malt,Cereal
+54,Oats,Cereal
+55,Rice,Cereal
+56,Corn,Maize
+57,Corn Oil,Maize
+58,Popcorn,Maize
+59,Sweetcorn,Maize
+60,Butter,Dairy
+61,Buttermilk,Dairy
+62,Cheese,Dairy
+63,Blue Cheese,Dairy
+64,Camembert Cheese,Dairy
+65,Cheddar Cheese,Dairy
+66,Comte Cheese,Dairy
+67,Cottage Cheese,Dairy
+68,Cream Cheese,Dairy
+69,Domiati Cheese,Dairy
+70,Emmental Cheese,Dairy
+71,Feta Cheese,Dairy
+72,Goat Cheese,Dairy
+73,Gruyere Cheese,Dairy
+74,Limburger Cheese,Dairy
+75,Mozzarella Cheese,Dairy
+76,Munster Cheese,Dairy
+78,Parmesan Cheese,Dairy
+79,Provolone Cheese,Dairy
+80,Romano Cheese,Dairy
+81,Roquefort Cheese,Dairy
+82,Russian Cheese,Dairy
+83,Sheep Cheese,Dairy
+84,Swiss Cheese,Dairy
+85,Tilsit Cheese,Dairy
+87,Ghee,Dairy
+88,Milk,Dairy
+89,Milk Fat,Dairy
+90,Goat Milk,Dairy
+91,Milk Powder,Dairy
+92,Sheep Milk,Dairy
+93,Skimmed Milk,Dairy
+94,Yogurt,Dairy
+95,Achilleas,Essential Oil
+96,Arar,Essential Oil
+97,Buchu,Essential Oil
+98,Cajeput,Essential Oil
+99,Camphor,Essential Oil
+100,Cascarilla,Essential Oil
+101,Cedar,Essential Oil
+102,Chamomile,Essential Oil
+103,Citronella Oil,Essential Oil
+104,Citrus Peel Oil,Essential Oil
+105,Eucalyptus Oil,Essential Oil
+106,Fir,Essential Oil
+107,Geranium,Essential Oil
+108,Grapefruit Peel Oil,Essential Oil
+109,Grass,Essential Oil
+110,Hops Oil,Essential Oil
+111,Hyacinth,Essential Oil
+112,Hyssop Oil,Essential Oil
+113,Lemon Grass,Essential Oil
+114,Lemon Peel Oil,Essential Oil
+115,Lime Peel Oil,Essential Oil
+116,Lovage,Essential Oil
+117,Mandarin Orange Peel Oil,Essential Oil
+118,Mastic Gum,Essential Oil
+119,Mentha Oil,Essential Oil
+120,Myrrh,Essential Oil
+121,Neroli Oil,Essential Oil
+122,Orange Oil,Essential Oil
+123,Orris,Essential Oil
+124,Clary Sage,Essential Oil
+125,Red Sage,Essential Oil
+126,Spanish Sage,Essential Oil
+127,Sandalwood,Essential Oil
+128,Sea Buckthorns,Fruit
+129,Sweet Grass,Essential Oil
+130,Valerian,Essential Oil
+131,Wattle,Essential Oil
+132,Yarrow,Essential Oil
+133,Ylang-Ylang,Essential Oil
+134,Clam,Seafood
+135,Crab,Seafood
+136,Crayfish,Seafood
+137,Kelp,Seafood
+138,Krill,Seafood
+139,Lobster,Seafood
+140,Mollusc,Seafood
+141,Oyster,Seafood
+142,Prawn,Seafood
+143,Scallop,Seafood
+144,Shellfish,Seafood
+145,Shrimp,Seafood
+146,Trassi,Seafood
+147,Squid,Seafood
+148,Bonito,Fish
+149,Caviar,Fish
+150,Codfish,Fish
+151,Fish,Fish
+152,Fatty Fish,Fish
+153,Lean Fish,Fish
+154,Fish Oil,Fish
+155,Smoked Fish,Fish
+156,Salmon,Fish
+157,Artichoke,Flower
+158,Champaca,Flower
+159,Jasmine,Flower
+160,Lavendar,Flower
+161,Rose,Flower
+162,Apple,Fruit
+163,Apple Sauce,Fruit
+164,Apricot,Fruit
+165,Avocado,Fruit
+166,Babaco,Fruit
+167,Banana,Fruit
+168,Beli,Fruit
+169,Byrsonima crassifolia,Fruit
+170,Cashew Apple,Fruit
+171,Cherimoya,Fruit
+172,Coconut,Fruit
+173,Currant,Fruit
+174,Black Currant,Fruit
+175,Red Currant,Fruit
+176,White Currant,Fruit
+177,Dates,Fruit
+178,Durian,Fruit
+179,Elderberry,Fruit
+180,Feijoa,Fruit
+181,Fig,Fruit
+182,Grape,Fruit
+183,Guava,Fruit
+184,Hogplum,Fruit
+185,Jackfruit,Fruit
+186,Kiwifruit,Fruit
+187,Litchi,Fruit
+188,Loquat,Fruit
+189,Malay Apple,Fruit
+190,Mango,Fruit
+191,Melon,Fruit
+192,Musk Melon,Fruit
+193,Naranjilla,Fruit
+194,Orange,Fruit
+195,Bitter Orange,Fruit
+196,Papaya,Fruit
+197,Mountain Papaya,Fruit
+198,Passionfruit,Fruit
+199,Yellow Passionfruit,Fruit
+200,Pawpaw,Fruit
+201,Peach,Fruit
+202,Pear,Fruit
+203,Bartlett Pear,Fruit
+204,Prickly Pear,Fruit
+205,Pepino,Fruit
+206,Pineapple,Fruit
+207,Plum,Fruit
+208,Plumcot,Fruit
+209,Pumpkin,Fruit
+210,Quince,Fruit
+211,Chinese Quince,Fruit
+212,Raisin,Fruit
+213,Roseapple,Fruit
+214,Sapodilla,Fruit
+215,Soursop,Fruit
+216,Spineless Monkey Orange,Fruit
+217,Starfruit,Fruit
+218,Tamarind,Fruit
+219,Woodapple,Fruit
+221,Bilberry,Fruit
+222,Blackberry,Fruit
+223,Blueberry,Fruit
+224,Cherry,Fruit
+225,Bitter Cherry,Fruit
+226,Sour Cherry,Fruit
+227,Sweet Cherry,Fruit
+228,Cloudberry,Fruit
+229,Cranberry,Fruit
+230,Gooseberry,Fruit
+231,Lingonberry,Fruit
+232,Loganberry,Fruit
+233,Raspberry,Fruit
+234,Strawberry,Fruit
+235,Strawberry Jam,Fruit
+236,Bergamot,Fruit
+237,Citrus Fruits,Fruit
+238,Grapefruit,Fruit
+239,Kumquat,Fruit
+240,Lemon,Fruit
+241,Lime,Fruit
+242,Mandarin Orange,Fruit
+243,Satsuma Orange,Fruit
+244,Tangerine,Fruit
+245,Vanilla,Fruit
+246,Mushroom,Fungus
+247,Truffle,Fungus
+248,Angelica,Herb
+249,Artemisia,Herb
+250,Basil,Herb
+251,Buckwheat,Herb
+252,Calamus,Herb
+253,Chervil,Herb
+254,Coriander,Herb
+255,Cornmint,Herb
+256,Dill,Herb
+257,Fennel,Herb
+258,Fenugreek,Herb
+259,Garlic,Herb
+260,Lemon Balm,Herb
+261,Liqourice,Herb
+262,Mint,Herb
+263,Rhubarb,Herb
+264,Rosemary,Herb
+265,Sage,Herb
+266,Spearmint,Herb
+267,Scotch Spearmint,Herb
+268,Tarragon,Herb
+269,Thyme,Herb
+270,Beef,Meat
+271,Beef Processed,Meat
+272,Chicken,Meat
+273,Frankfurter Sausage,Dish
+274,Ham,Meat
+275,Lamb,Meat
+276,Meat,Meat
+277,Mutton,Meat
+278,Pork,Meat
+279,Sukiyaki,Meat
+280,Turkey,Meat
+281,Almond,Nuts & Seed
+282,Brazil Nut,Nuts & Seed
+283,Cocoa,Nuts & Seed
+284,Beans,Legume
+285,Lima Beans,Legume
+286,Kidney Beans,Legume
+287,Peanut,Nuts & Seed
+288,Peas,Legume
+289,Soybean,Legume
+290,Soybean Oil,Legume
+291,Soybean Sauce,Plant
+292,Filbert,Nuts & Seed
+293,Hazelnut,Nuts & Seed
+294,Macadamia Nut,Nuts & Seed
+296,Pecans,Nuts & Seed
+297,Walnut,Nuts & Seed
+298,Muskmallow,Nuts & Seed
+299,Sesame,Nuts & Seed
+300,Allium,Plant
+301,Alpinia,Plant
+302,Ceriman,Plant
+303,Chicory,Plant
+304,Hops,Plant
+305,Laurel,Plant
+306,Myrtle,Plant
+307,Olive,Plant
+308,Pine,Plant
+309,Sassafras,Plant
+310,Tea,Plant
+311,Fermented Tea,Plant
+312,Tobacco,Plant
+313,Watercress,Plant
+314,Creosote,Plant
+315,Honey,Plant
+316,Macaroni,Plant
+317,Mustard Oil,Plant
+318,Peanut Butter,Plant
+319,Peanut Oil,Plant
+320,Rye,Cereal
+321,Storax,Plant
+322,Vinegar,Plant
+323,Anise,Spice
+324,Anise Hyssop,Spice
+325,Star Anise,Spice
+326,Caraway,Spice
+327,Cardamom,Spice
+328,Cassia,Spice
+329,Celery,Spice
+330,Cinnamon,Spice
+331,Clove,Spice
+332,Cumin,Spice
+333,Ginger,Spice
+334,Mace,Spice
+335,Marjoram,Spice
+336,Nutmeg,Spice
+337,Oregano,Spice
+338,Parsley,Spice
+339,Pepper,Spice
+340,Saffron,Spice
+341,Turmeric,Spice
+342,Green Beans,Vegetable
+343,Chive,Vegetable
+344,Endive,Vegetable
+345,Leek,Vegetable
+346,Lettuce,Vegetable
+347,Okra,Vegetable
+348,Onion,Vegetable
+349,Shallot,Vegetable
+350,Peppermint,Herb
+351,Broccoli,Vegetable
+352,Brussels Sprout,Vegetable
+353,Cabbage,Vegetable
+354,Cauliflower,Vegetable
+355,Horseradish,Vegetable
+356,Mustard,Vegetable
+357,Radish,Vegetable
+358,Turnip,Vegetable
+359,Kohlrabi,Vegetable
+360,Rutabaga,Vegetable
+361,Wasabi,Vegetable
+362,Capsicum,Vegetable
+363,Cherry Pepper,Vegetable
+364,Tomato,Vegetable
+365,Chayote,Vegetable
+366,Cucumber,Vegetable
+367,Beetroot,Vegetable
+368,Carrot,Vegetable
+369,Parsnip,Vegetable
+370,Sweet Potato,Vegetable
+371,Asparagus,Vegetable
+372,Cassava,Vegetable
+373,Potato,Vegetable
+374,Fried Potato,Bakery
+375,Allspice,Spice
+376,Asafoetida,Spice
+377,Ashgourd,Vegetable
+378,Bittergourd,Vegetable
+379,Bottlegourd,Vegetable
+380,Canola Oil,Essential Oil
+381,Carom Seed,Spice
+382,Chard,Vegetable
+383,Apple Cider Vinegar,Plant
+384,Colocasia,Vegetable
+385,Curry Leaf,Herb
+386,Drumstick Leaf,Vegetable
+387,Eggplant,Vegetable
+388,Flaxseed,Nuts & Seed
+389,Jalapeno,Spice
+390,Kenaf,Essential Oil
+391,Lotus,Essential Oil
+392,Nigella Seed,Nuts & Seed
+393,Kewda,Essential Oil
+394,Pomegranate,Fruit
+395,Poppy Seed,Spice
+396,Spinach,Vegetable
+397,Turkey Berry,Vegetable
+398,Water Chestnut,Fruit
+399,White Pepper,Spice
+400,Garcinia Indica,Fruit
+401,Cluster Bean,Legume
+402,Paneer,Dairy
+403,Pigeon Pea,Legume
+404,Basmati Rice,Cereal
+405,Ricotta Cheese,Dairy
+408,Silver linden,Herb
+409,Redskin onion,Vegetable
+410,Lemon verbena,Herb
+411,Cashew nut,Nuts & Seed
+412,Burdock,Vegetable
+413,Borage,Herb
+414,Capers,Herb
+415,Safflower,Herb
+416,Chestnut,Nuts & Seed
+417,Chickpea,Legume
+418,Pummelo,Fruit
+419,Arabica coffee,Beverage
+421,Japanese persimmon,Fruit
+422,Black crowberry,Fruit
+423,Rocket salad,Herb
+424,Tartary buckwheat,Cereal
+425,Black huckleberry,Fruit
+426,Sunflower,Flower
+427,Swamp cabbage,Vegetable
+428,Grass pea,Legume
+429,Lentils,Legume
+430,Garden cress,Herb
+431,Mexican oregano,Herb
+432,Lupine,Plant
+433,Medlar,Fruit
+434,Mulberry,Fruit
+435,Black mulberry,Fruit
+436,Evening primrose,Herb
+437,Millet,Legume
+438,Scarlet bean,Legume
+439,Pistachio,Nuts & Seed
+440,Purslane,Plant
+441,Red raspberry,Fruit
+442,Black raspberry,Fruit
+443,Sorrel,Herb
+444,Summer savory,Herb
+445,Winter savory,Herb
+446,Cherry tomato,Fruit
+447,Rowanberry,Fruit
+448,Sorghum,Cereal
+449,Dandelion,Flower
+450,Linden,Herb
+451,Small leaf linden,Plant
+452,Wheat,Cereal
+453,Sparkleberry,Fruit
+454,Common verbena,Herb
+455,Adzuki bean,Legume
+456,Gram bean,Legume
+457,Mung bean,Legume
+458,Climbing bean,Legume
+459,Muscadine grape,Fruit
+460,Bayberry,Fruit
+461,Elliott's blueberry,Fruit
+462,Canada blueberry,Fruit
+463,Buffalo currant,Fruit
+464,Deerberry,Fruit
+465,Ginseng,Vegetable
+466,Longan,Plant
+469,Rambutan,Fruit
+470,Red rice,Cereal
+472,Welsh onion,Vegetable
+473,Hard wheat,Cereal
+474,Triticale,Cereal
+475,Komatsuna,Vegetable
+476,Pak choy,Vegetable
+477,Jostaberry,Fruit
+478,Kai lan,Vegetable
+480,Pineappple sage,Herb
+481,Skunk currant,Fruit
+482,Breakfast cereal,Cereal
+484,Pasta,Bakery
+485,Biscuit,Bakery
+486,Sourdough,Cereal
+487,Spirit,Beverage Alcoholic
+489,Abalone,Fungus
+490,Abiyuch,Plant
+491,Acerola,Fruit
+492,Acorn,Nuts & Seed
+493,Winter squash,Fruit
+494,Agar,Additive
+495,Red king crab,Seafood
+496,Alfalfa,Herb
+497,Amaranth,Herb
+498,Arrowhead,Vegetable
+499,Arrowroot,Vegetable
+500,Atlantic herring,Fish
+501,Atlantic mackerel,Fish
+502,Painted comber,Fish
+503,Atlantic pollock,Fish
+504,Atlantic wolffish,Fish
+505,Bamboo shoots,Plant
+506,Striped bass,Fish
+507,Beaver,Meat
+508,Beech nut,Nuts & Seed
+509,Beluga whale,Fish
+510,Bison,Meat
+511,Black bear,Meat
+512,Alaska blackfish,Fish
+513,Northern bluefin tuna,Fish
+514,Bluefish,Fish
+515,Wild boar,Meat
+516,Bowhead whale,Fish
+517,Breadfruit,Fruit
+519,Rapini,Vegetable
+520,Brown bear,Meat
+521,Buffalo,Meat
+522,Burbot,Fish
+523,Giant butterbur,Plant
+524,American butterfish,Fish
+525,Butternut,Nuts & Seed
+526,Butternut squash,Fruit
+527,Cardoon,Plant
+528,Caribou,Meat
+529,Natal plum,Fruit
+530,Carob,Plant
+531,Common carp,Fish
+532,Channel catfish,Fish
+533,Chia,Herb
+534,Chinese chestnut,Nuts & Seed
+535,Garland chrysanthemum,Flower
+536,Cisco,Fish
+537,Nuttall cockle,Fish
+538,Common octopus,Seafood
+539,Corn salad,Vegetable
+540,Cottonseed,Plant
+541,Catjang pea,Legume
+542,Squashberry,Fruit
+543,Atlantic croaker,Fish
+544,Cusk,Fish
+545,Cuttlefish,Fish
+546,Mule deer,Meat
+547,Devilfish,Fish
+548,Dock,Herb
+549,Dolphin fish,Fish
+550,Freshwater drum,Fish
+551,Wild duck,Meat
+552,Freshwater eel,Fish
+553,Elk,Meat
+554,Emu,Meat
+555,Oregon yampah,Plant
+556,European anchovy,Fish
+557,European chestnut,Nuts & Seed
+558,Turbot,Fish
+559,Fireweed,Herb
+560,Florida pompano,Fish
+561,Ginkgo nuts,Nuts & Seed
+562,Greylag goose,Meat
+563,Greenland halibut,Fish
+564,Groundcherry,Fruit
+565,Grouper,Fish
+566,Haddock,Fish
+567,Hippoglossus,Fish
+568,Horse,Meat
+569,Hyacinth bean,Legume
+570,Irish moss,Seafood
+571,Pacific jack mackerel,Fish
+572,Japanese chestnut,Nuts & Seed
+573,Jerusalem artichoke,Vegetable
+574,Jujube,Fruit
+575,Jute,Plant
+576,Kale,Vegetable
+577,King mackerel,Fish
+578,Lambsquarters,Plant
+579,Leather chiton,Seafood
+580,Common ling,Fish
+581,Lingcod,Fish
+582,White lupine,Plant
+583,Malabar spinach,Vegetable
+584,Mammee apple,Fruit
+585,Purple mangosteen,Fruit
+586,Alpine sweetvetch,Plant
+587,Milkfish,Fish
+588,Monkfish,Fish
+589,Moose,Meat
+590,Moth bean,Legume
+591,Mountain yam,Vegetable
+592,Striped mullet,Fish
+593,Muskrat,Meat
+594,New Zealand spinach,Vegetable
+595,Nopal,Plant
+596,Ocean pout,Fish
+597,North Pacific giant octopus,Seafood
+598,Ohelo berry,Fruit
+600,Opossum,Meat
+601,Ostrich,Meat
+602,Spotted seal,Seafood
+603,Pacific herring,Fish
+604,Pacific rockfish,Fish
+606,Common persimmon,Fruit
+607,Pheasant,Meat
+608,Northern pike,Fish
+609,Pili nut,Nuts & Seed
+610,Colorado pinyon,Plant
+611,Pitanga,Fruit
+612,French plantain,Plant
+613,American pokeweed,Herb
+614,Polar bear,Meat
+615,Prairie turnip,Vegetable
+616,Quinoa,Cereal
+617,European rabbit,Meat
+618,Raccoon,Meat
+619,Rainbow smelt,Fish
+620,Rainbow trout,Fish
+621,Malabar plum,Fruit
+622,Rose hip,Fruit
+623,Roselle,Herb
+624,Orange roughy,Fish
+625,Sablefish,Fish
+626,Pink salmon,Fish
+627,Chum salmon,Fish
+628,Coho salmon,Fish
+629,Sockeye salmon,Fish
+630,Chinook salmon,Fish
+631,Atlantic salmon,Fish
+632,Salmonberry,Fruit
+633,Common salsify,Plant
+634,Spanish mackerel,Fish
+635,Pacific sardine,Fish
+636,Scup,Fish
+637,Sea cucumber,Seafood
+638,Steller sea lion,Seafood
+639,Bearded seal,Seafood
+640,Ringed seal,Seafood
+641,Sea trout,Fish
+642,Sesbania flower,Flower
+643,American shad,Fish
+644,Shark,Fish
+645,Sheefish,Fish
+646,Sheepshead,Fish
+647,Hedge mustard,Vegetable
+648,Snapper,Fish
+649,Spelt,Cereal
+650,Spirulina,Additive
+651,Squab,Meat
+652,Squirrel,Meat
+653,Greater sturgeon,Fish
+654,White sucker,Fish
+655,Pumpkinseed sunfish,Fish
+656,Swordfish,Fish
+657,Taro,Vegetable
+658,Teff,Herb
+659,Tilefish,Fish
+660,Mexican groundcherry,Fruit
+661,Towel gourd,Vegetable
+662,Salmonidae,Fish
+663,Walleye,Fish
+664,Alaska pollock,Fish
+665,Whelk,Seafood
+667,Broad whitefish,Fish
+668,Whitefish,Fish
+669,Whiting,Fish
+670,Wild rice,Cereal
+671,Tea leaf willow,Herb
+672,Winged bean,Legume
+673,Yam,Vegetable
+674,Jicama,Vegetable
+675,Yautia,Plant
+676,Yellowfin tuna,Fish
+677,Yellowtail amberjack,Fish
+678,Pollock,Fish
+679,Albacore tuna,Fish
+680,Atlantic halibut,Fish
+682,Smelt,Fish
+683,Clupeinae,Fish
+684,Spiny lobster,Seafood
+685,Black-eyed pea,Legume
+686,Deer,Meat
+687,Percoidei,Fish
+688,Perciformes,Fish
+690,Rabbit,Meat
+691,Beefalo,Meat
+693,Bivalvia,Seafood
+694,Flatfish,Fish
+695,Walrus,Seafood
+696,Alaska wild rhubarb,Plant
+697,Oriental wheat,Cereal
+698,Yardlong bean,Legume
+699,Great horned owl,Meat
+700,Quail,Meat
+701,Boysenberry,Fruit
+702,Rowal,Plant
+703,Jew's ear,Fungus
+704,Shiitake,Fungus
+705,Purple laver,Seafood
+706,Wakame,Seafood
+707,Enokitake,Fungus
+708,Epazote,Herb
+709,Oyster mushroom,Fungus
+710,Cloud ear fungus,Fungus
+711,Maitake,Fungus
+712,Ostrich fern,Plant
+713,Spot croaker,Fish
+714,Sourdock,Herb
+715,Tinda,Vegetable
+716,Atlantic menhaden,Fish
+717,Agave,Plant
+718,Narrowleaf cattail,Herb
+719,Jellyfish,Seafood
+720,Anchovy,Fish
+721,Blue whiting,Fish
+722,Carp bream,Fish
+723,Chanterelle,Fungus
+724,Sturgeon,Fish
+725,Charr,Fish
+726,Common dab,Fish
+727,Spiny dogfish,Fish
+728,Anatidae,Meat
+729,Anguilliformes,Fish
+730,True frog,Meat
+731,Garfish,Fish
+732,Gadiformes,Fish
+733,Mountain hare,Meat
+734,Lake trout,Fish
+735,Lemon sole,Fish
+736,Lumpsucker,Fish
+737,Scombridae,Fish
+738,Norway haddock,Fish
+739,Norway pout,Fish
+740,Oil palm,Plant
+741,Sago palm,Plant
+742,Persimmon,Fruit
+743,Pikeperch,Fish
+744,Pleuronectidae,Fish
+745,Rock ptarmigan,Meat
+746,Pacific ocean perch,Fish
+747,Black salsify,Plant
+748,True seal,Seafood
+749,Red algae,Seafood
+750,Kombu,Seafood
+751,Snail,Meat
+752,True sole,Fish
+753,Catfish,Fish
+754,Thistle,Plant
+755,Common Tuna,Fish
+756,Cetacea,Fish
+757,Columbidae,Meat
+758,Conch,Fish
+759,Berry wine,Beverage Alcoholic
+762,Vodka,Beverage Alcoholic
+763,Ice cream,Dish
+764,Vermouth,Beverage Alcoholic
+765,Madeira wine,Beverage Alcoholic
+766,Nougat,Dish
+767,Toffee,Dish
+768,Cake,Dish
+769,Pizza,Dish
+770,Ymer,Dairy
+772,Pastry,Dish
+773,Drag̩e,Dish
+774,Chewing gum,Dish
+775,Marzipan,Dish
+776,Salad dressing,Dish
+778,Salt,Additive
+780,Cream,Dairy
+781,Sugar,Additive
+782,Sausage,Dish
+783,Meatball,Dish
+784,Pate,Dish
+786,Meat bouillon,Dish
+788,Whey,Dairy
+789,Casein,Additive
+791,Leavening agent,Additive
+792,Marshmallow,Bakery
+793,Gelatin,Additive
+794,Water,Additive
+796,Milk Human,Dairy
+799,Dumpling,Dish
+800,Soup,Dish
+803,Syrup,Additive
+805,Remoulade,Dish
+806,Chocolate spread,Plant
+807,Fruit gum,Dish
+810,Meringue,Bakery
+814,Cocoa butter,Plant
+815,Cocoa powder,Plant
+817,Chocolate,Plant
+818,Hot chocolate,Beverage
+820,Kefir,Dairy
+822,Miso,Additive
+823,Tofu,Plant
+824,Zwieback,Dish
+825,Roe,Fish
+826,Cichlidae,Fish
+827,Icing,Additive
+828,Snack bar,Dish
+829,Green turtle,Meat
+831,Burrito,Dish
+832,Hamburger,Dish
+834,Taco,Dish
+835,Tortilla,Dish
+836,Nachos,Dish
+837,Salad,Dish
+839,Dulce de leche,Dairy
+840,Topping,Additive
+841,Sweet custard,Dairy
+842,Egg roll,Dish
+843,Heart of palm,Vegetable
+845,Potato chip,Bakery
+846,Tortilla chip,Bakery
+847,Corn chip,Bakery
+848,Hibiscus tea,Beverage
+849,Stew,Dish
+850,Gelatin dessert,Additive
+851,Junket,Dairy
+852,Falafel,Dish
+853,Frybread,Dish
+855,Lasagna,Dish
+856,Morchella,Fungus
+857,Pancake,Dish
+858,Pectin,Additive
+859,Pudding,Dish
+860,Waffle,Dish
+861,Soy milk,Beverage
+862,Meatloaf,Dish
+863,Cocktail,Beverage
+864,Couscous,Dish
+865,Bulgur,Cereal
+867,Coffee mocha,Beverage
+868,Chimichanga,Dish
+869,Semolina,Cereal
+870,Tapioca pearl,Vegetable
+871,Tostada,Dish
+872,Quesadilla,Dish
+873,Baked potato,Dish
+874,Hot dog,Dish
+875,Spread,Additive
+876,Enchilada,Dish
+880,Ketchup,Additive
+882,Adobo,Dish
+884,Horned melon,Fruit
+885,Hushpuppy,Dish
+886,Fruit juice,Beverage
+887,Relish,Dish
+889,Fruit salad,Dish
+890,Soy yogurt,Plant
+893,Cold cut,Dish
+894,Mixed nuts,Nuts & Seed
+895,Babassu palm,Plant
+897,Shea tree,Plant
+898,Oil-seed Camellia,Plant
+899,Ucuhuba,Plant
+900,Phyllo dough,Bakery
+901,Cooking oil,Additive
+902,Pie crust,Bakery
+904,Pie,Dish
+905,Shortening,Additive
+906,Soy cream,Dish
+907,Ice cream cone,Dish
+908,Molasses,Additive
+909,Nance,Fruit
+911,Natto,Dish
+912,Ravioli,Dish
+913,Scrapple,Dish
+915,Succotash,Dish
+916,Tamale,Dish
+917,Rice cake,Dish
+918,Tree fern,Plant
+919,Evaporated milk,Dairy
+920,Flour,Cereal
+921,Akutaq,Dish
+923,Pita bread,Bakery
+924,Focaccia,Bakery
+925,Bagel,Bakery
+927,Piki bread,Bakery
+928,French toast,Bakery
+929,Oat bread,Bakery
+930,Potato bread,Bakery
+931,Cornbread,Maize
+932,Corn grits,Maize
+933,Multigrain bread,Bakery
+934,Rice bread,Bakery
+935,Pan dulce,Bakery
+936,Raisin bread,Bakery
+937,Wonton wrapper,Bakery
+938,Trail mix,Dish
+939,Greenthread tea,Beverage
+941,Vegetable juice,Beverage
+942,Horchata,Beverage
+943,Soft drink,Beverage
+944,Milkshake,Beverage
+945,Chocolate mousse,Bakery
+947,Pupusa,Dish
+948,Empanada,Dish
+949,Arepa,Dish
+950,Ascidians,Seafood
+951,Gefilte fish,Dish
+952,Yellow pond lily,Plant
+953,Fish burger,Dish
+955,Pot pie,Dish
+956,Stuffing,Additive
+958,Fudge,Bakery
+959,Candy bar,Bakery
+960,Condensed milk,Dairy
+961,Margarine,Additive
+963,Hummus,Dish
+964,Potato puffs,Dish
+965,Potato gratin,Dish
+967,Chinese bayberry,Fruit
+968,Green zucchini,Vegetable
+969,Zucchini,Vegetable
+970,Saskatoon berry,Fruit
+971,Nanking cherry,Fruit
+972,Japanese pumpkin,Fruit
+977,Guinea hen,Meat
+978,Cucurbita,Vegetable
+979,Anise Oil,Fruit
+980,Apple Juice,Fruit
+981,Coconut Milk,Beverage
+982,Coconut Oil,Fruit
+983,Hops Beer,Beverage Alcoholic
+984,Lemon Juice,Beverage
+985,Brown Rice,Cereal
+986,Tomato Juice,Beverage
+987,Tomato Paste,Vegetable
+988,Tomato Puree,Vegetable
+989,Coriander Seed,Vegetable
+990,Lard,Meat
+991,Cured Ham,Meat
+992,Cayenne,Spice
+993,Yeast,Fungus
+994,Tequila,Beverage Alcoholic
+995,Sauerkraut,Vegetable
+996,Baking Powder,Additive
+997,Monosodium Glutamate,Additive
+998,Citric Acid,Additive
+999,Cooking Spray,Additive
+1000,Gelatin,Additive
+1001,Food Coloring,Additive
+1002,Liquid Smoke,Additive
+2000,Garam Masala,Spice
+2001,Ginger Garlic Paste,Spice
+2002,Coriander Cumin Seed Powder,Spice
+2003,Chaat Masala,Spice
+2004,Sambar Powder,Spice
+2005,Chole Masala,Spice
+2006,Rasam Powder,Spice
+2007,Tandoori Masala,Spice
+2008,Curry Powder,Spice
+2009,Panch Pharon Seed,Spice
+2010,Chicken Masala Powder,Spice
+2011,Goda Masala,Spice
+2012,Jal Jeera Powder,Spice
+2013,Ginger Garlic Coriander Leaves,Spice
+2014,Pulao Masala,Spice
+2015,Dabeli Masala,Spice
+2016,Cake Mix,Dish
+2017,Half Half,Dairy
+2018,Ale,Beverage Alcoholic
+2019,Vermicelli,Dish
+2020,Self Rising Flour,Cereal
+2021,Mayonnaise,Dish
+2022,Salt-Pepper,Additive
+2023,Croissant,Dish
+2024,Puff Pastry,Dish
+2025,Green Chutney,Spice
+2026,Cajun Seasoning,Spice
+2027,Vegetable Broth,Dish
+2028,Tandoori Paste,Dish
+2029,Mixed Vegetables,Vegetable
+2030,Salad Creme,Dish
+2031,Worcestershite Sauce,Dish
+2032,Coleslaw,Dish
+2033,Vegetable Stock,Vegetable
+2034,Mascarpone,Dish
+2035,Fettuccine,Dish
+2036,Italian Seasoning,Spice
+2037,Ketchup,Dish
+2038,Spinach Fettuccine,Dish
+2039,Hoisin Sauce,Dish
+2040,Barbeque Sauce,Dish
+2041,Sponge Cake,Dish
+2042,Baking Mix,Dish
+2043,Hot Sauce,Dish
+2044,Dried Mixed Fruit,Fruit
+2045,Candied Mixed Fruit,Fruit
+2046,Gulkand,Dish
+2047,Pancetta,Dish
+2048,Phyllo,Cereal
+2049,Pie Crust,Cereal
+2050,Prosciutto,Meat
+2051,Creole Seasoning,Spice
+2052,Chinese Five Spice Powder,Spice
+2053,Old Bay Seasoning,Spice
+2054,Adobo Sauce,Dish
+2055,Cracker Crumb,Dish
+2056,Flour,Cereal
+2057,Ranch Dressing,Spice
+2058,Poultry Seasoning,Spice
+2059,Tahini,Dish
+2060,Herbe de Provence,Spice
+2061,Tart Shell,Dish
+2062,Adobo,Dish
+2063,Tomato Puree,Vegetable
+2064,Tomato Paste,Vegetable
+2065,Bear,Meat
+2066,Whale,Fish
+2067,Whitefish,Fish
+2068,Seal,Fish
+2069,Tuna,Fish
+2070,Croaker,Fish
+2071,Mackerel,Fish
+2072,Pollock,Fish
+2073,Anchovy,Fish
+2074,Perch,Fish
+2075,Frybread,Dish
+2076,Sturgeon,Fish
+2077,Hibiscus Tea,Dish
+2078,Deer,Meat
+2079,Octopus,Seafood
+2080,Oat Bread,Bakery
+2081,Pita Bread,Bakery
+2082,Raisin Bread,Bakery
+2083,Multigrain Bread,Bakery
+2084,Cornbread,Bakery
+2085,Pout,Fish
+2086,Herring,Fish
+2087,Smelt,Fish
+2088,Crab,Seafood
+2089,Cooking Oil,Additive
+2090,Rice Cake,Bakery
+2091,Trout,Fish
+2092,Lobster,Seafood
+2093,Halibut,Fish
+2094,Whiting,Fish
+2095,Buffalo,Meat
+2096,Catfish,Fish
+2097,Salmon,Fish
+2098,Rabbit,Meat
+2099,Haddock,Fish
+2100,Persimmon,Fruit
+2101,Apple Sauce,Dish
+2102,Cider Vinegar,Dish
