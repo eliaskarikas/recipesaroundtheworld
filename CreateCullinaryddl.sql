@@ -60,10 +60,17 @@ CREATE TABLE Disease (
 	disease_id INT PRIMARY KEY AUTO_INCREMENT,
     obesity_popshare VARCHAR(10),
     undernourishment_popshare VARCHAR(10),
-    gdp INT,
     year YEAR NOT NULL,
     country_id INT NOT NULL,
     CONSTRAINT dis_fk_country FOREIGN KEY (country_id) REFERENCES Country (country_id)
+);
+
+DROP TABLE IF EXISTS Yearly_Capital;
+CREATE TABLE Yearly_Capital (
+	country_id INT NOT NULL,
+    year YEAR NOT NULL,
+    gdp FLOAT NOT NULL,
+    CONSTRAINT yc_fk_country FOREIGN KEY (country_id) REFERENCES Country (country_id)
 );
 
 LOAD DATA LOCAL INFILE '/Users/spens/OneDrive/Documents/School/Northeastern115/Database3200/project/CulinaryDB/region.csv'
@@ -108,6 +115,6 @@ FIELDS TERMINATED BY ","
 LINES TERMINATED BY "\n"
 IGNORE 1 LINES;
 
-UPDATE disease SET gdp=NULL WHERE gdp=0;
+UPDATE Yearly_Capital SET gdp=NULL WHERE gdp=0;
 UPDATE disease SET undernourishment_popshare=NULL WHERE undernourishment_popshare like "0";
 UPDATE diet_composition SET calories=NULL WHERE calories=0;
