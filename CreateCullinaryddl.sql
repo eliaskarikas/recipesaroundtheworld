@@ -60,61 +60,54 @@ CREATE TABLE Disease (
 	disease_id INT PRIMARY KEY AUTO_INCREMENT,
     obesity_popshare VARCHAR(10),
     undernourishment_popshare VARCHAR(10),
+    gdp INT,
     year YEAR NOT NULL,
     country_id INT NOT NULL,
     CONSTRAINT dis_fk_country FOREIGN KEY (country_id) REFERENCES Country (country_id)
 );
 
-DROP TABLE IF EXISTS Yearly_Capital;
-CREATE TABLE Yearly_Capital (
-	country_id INT NOT NULL,
-    year YEAR NOT NULL,
-    gdp FLOAT NOT NULL,
-    CONSTRAINT yc_fk_country FOREIGN KEY (country_id) REFERENCES Country (country_id)
-);
-
-LOAD DATA LOCAL INFILE '/Users/spens/OneDrive/Documents/School/Northeastern115/Database3200/project/CulinaryDB/region.csv'
+LOAD DATA LOCAL INFILE './CulinaryDB/region.csv'
 INTO TABLE region
 FIELDS TERMINATED BY ","
 LINES TERMINATED BY "\n"
 IGNORE 1 LINES;
 
-LOAD DATA LOCAL INFILE '/Users/spens/OneDrive/Documents/School/Northeastern115/Database3200/project/CulinaryDB/Recipetable.txt'
+LOAD DATA LOCAL INFILE './CulinaryDB/Recipetable.txt'
 INTO TABLE recipe
 FIELDS TERMINATED BY "	"
 LINES TERMINATED BY "\n"
 IGNORE 1 LINES;
 
-LOAD DATA LOCAL INFILE '/Users/spens/OneDrive/Documents/School/Northeastern115/Database3200/project/CulinaryDB/ingredient.csv'
+LOAD DATA LOCAL INFILE './CulinaryDB/ingredient.csv'
 INTO TABLE ingredient
 FIELDS TERMINATED BY ","
 LINES TERMINATED BY "\n"
 IGNORE 1 LINES;
 
-LOAD DATA LOCAL INFILE '/Users/spens/OneDrive/Documents/School/Northeastern115/Database3200/project/CulinaryDB/ingredient_list.csv'
+LOAD DATA LOCAL INFILE './CulinaryDB/ingredient_list.csv'
 INTO TABLE ingredient_list
 FIELDS TERMINATED BY ","
 LINES TERMINATED BY "\n"
 IGNORE 1 LINES;
 
-LOAD DATA LOCAL INFILE '/Users/spens/OneDrive/Documents/School/Northeastern115/Database3200/project/CulinaryDB/countryid.csv'
+LOAD DATA LOCAL INFILE './CulinaryDB/countryid.csv'
 INTO TABLE country
 FIELDS TERMINATED BY ","
 LINES TERMINATED BY "\n"
 IGNORE 1 LINES;
 
-LOAD DATA LOCAL INFILE '/Users/spens/OneDrive/Documents/School/Northeastern115/Database3200/project/CulinaryDB/disease.csv'
+LOAD DATA LOCAL INFILE './CulinaryDB/disease.csv'
 INTO TABLE disease
 FIELDS TERMINATED BY ","
 LINES TERMINATED BY "\n"
 IGNORE 1 LINES;
 
-LOAD DATA LOCAL INFILE '/Users/spens/OneDrive/Documents/School/Northeastern115/Database3200/project/CulinaryDB/diet_composition.csv'
+LOAD DATA LOCAL INFILE './CulinaryDB/diet_composition.csv'
 INTO TABLE diet_composition
 FIELDS TERMINATED BY ","
 LINES TERMINATED BY "\n"
 IGNORE 1 LINES;
 
-UPDATE Yearly_Capital SET gdp=NULL WHERE gdp=0;
+UPDATE disease SET gdp=NULL WHERE gdp=0;
 UPDATE disease SET undernourishment_popshare=NULL WHERE undernourishment_popshare like "0";
 UPDATE diet_composition SET calories=NULL WHERE calories=0;
